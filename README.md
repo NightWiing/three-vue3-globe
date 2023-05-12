@@ -1,4 +1,4 @@
-# vue3-threeJs-globe
+# ThreeJs Rotating Globe with Vue3
 
 ## Project Setup
 
