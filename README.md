@@ -1,6 +1,6 @@
 # ThreeJs Rotating Globe with Vue3
 
-![](https://github.com/NightWiing/three-vue3-globe/blob/main/public/ezgif.com-optimize.gif)
+![](https://github.com/NightWiing/three-vue3-globe/blob/main/public/earth.gif)
 
 ## Project Setup
 
