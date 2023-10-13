@@ -1,6 +1,6 @@
 # ThreeJs Rotating Globe with Vue3
 
-![Demo GIF]([img]https://i.imgur.com/RM16YY6.gif[/img])
+![Demo GIF](https://i.imgur.com/RM16YY6.gif)
 
 ## Project Setup
 
